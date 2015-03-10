@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Urdu Dictionary Test</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash_screen">Urdu Dict</string>
+    <string name="title_activity_meaning">Meaning</string>
+</resources>
